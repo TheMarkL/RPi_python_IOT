@@ -1,0 +1,13 @@
+!#bash
+
+## GMAIL API
+
+sudo apt-get install python-pip
+
+sudo pip install feedparser
+
+sudo apt-get install python-requests
+
+sudo nano gmailsend.py
+
+python gmailsend.py
